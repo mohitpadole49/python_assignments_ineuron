@@ -2,8 +2,8 @@
 w1=input("Enter Word 1 :")
 w2=input("Enter Word 2 :")
 if(w1>w2):
-    print(w1)
     print(w2)
+    print(w1)
 else:
-    print(w2)
     print(w1)
+    print(w2)

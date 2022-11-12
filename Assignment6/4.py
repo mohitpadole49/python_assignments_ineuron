@@ -1,5 +1,5 @@
 #Write a python script to print greater between two numbers. Print number only once even if the numbers are the same.
-from imaplib import Int2AP
+
 
 
 num1=int(input("Enter First  numbers "))
